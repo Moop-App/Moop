@@ -20,7 +20,7 @@ Link to privacy policy of third party service providers used by the app
 *   [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
 *   [Google Analytics for Firebase](https://firebase.google.com/policies/analytics)
 *   [Firebase Crashlytics](https://firebase.google.com/support/privacy/)
-*   [YouTube API Services](https://www.youtube.com/t/terms) (You are agreeing to be bound by the YouTube Terms of Service.)
+*   [YouTube Terms of Service](https://www.youtube.com/t/terms) (You are agreeing to be bound by the YouTube Terms of Service.)
 
 **Log Data**
 
